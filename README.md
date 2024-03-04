@@ -34,7 +34,7 @@ Le projet NOM-2024 est une application web pour.... Son objectif est de répondr
 - Enregistrement de nouveaux utilisateurs du site
 - Connexion des utilisateurs existants
 - La possibilité de choisir le ... et le ...
-- Creation de ticket
+- Creation de ...
 
 # Accès au Site
 
@@ -105,7 +105,7 @@ Dans cette section, je souligne certains défis auxquels j'ai été confronté l
    - *Impact*: J'ai perdu plusieurs temps avant que ... .
    - *Solutions possibles*: Choisir quelques ... pour l... . Si la ... est une question de principe, alors prévoir plus de temps pour ... .
 
-2. **Problème 2: **
+2. **Problème 2: ... **
    - *Context*: ... .
    - *Impact*: ... .
    - *Solutions possibles*: ... .
