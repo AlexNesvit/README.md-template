@@ -1,5 +1,5 @@
 # ✅ README.md-template ✅ 
-# ✅**Projet NOM**✅ 
+# **Projet NOM** 
 
 ## 💻 Site Nom 💻
 
@@ -136,6 +136,6 @@ Si vous êtes intéressé à aborder l'un des problèmes mentionnés ou à contr
 
 # Remerciements
 
-Je tiens à exprimer ma sincère gratitude envers Pierre Danaës, dont la disponibilité constante et la précision ont grandement contribué à la réalisation de ce projet. Son aide précieuse a transformé cette expérience en une aventure épique.
+Je tiens à exprimer ma sincère gratitude envers ..., dont la disponibilité constante et la précision ont grandement contribué à la réalisation de ce projet. Son aide précieuse a transformé cette expérience en une aventure épique.
 
-## 🟣"Tout grand voyage commence par un simple pas" (Bouddha) 🟣
+## 🟣"Le courage, c’est d’aller dans l’inconnu malgré toutes les peurs" (OSHO) 🟣
