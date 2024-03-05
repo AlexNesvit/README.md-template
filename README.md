@@ -1,6 +1,7 @@
 # ✅ README.md-template ✅ 
 
-# **Projet NOM** <img src="{{cookiecutter.repo_slug}}/docs/images/logo.svg" alt="Logo" width="125" height="125">
+# **Projet NOM** 
+
 
 ## 💻 Site Nom 💻
 
