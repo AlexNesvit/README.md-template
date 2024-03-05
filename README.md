@@ -1,6 +1,6 @@
 # ✅ README.md-template ✅ 
 
-  <img src="![Alt text](logo.svg)" alt="Logo" width="100" height="100">
+  <img src="logo.svg" alt="Logo" width="100" height="100">
 
 
 # **Projet NOM** 
