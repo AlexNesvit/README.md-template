@@ -26,7 +26,7 @@
 - [Prochaines étapes](#prochaines-étapes)
 - [Contributions](#contributions)
 - [Remerciements](#remerciements)
-  - [🟣"Le courage, c’est d’aller dans l’inconnu malgré toutes les peurs"(OSHO)🟣](#le-courage-cest-daller-dans-linconnu-malgré-toutes-les-peursosho)
+- [🟣"Le courage, c’est d’aller dans l’inconnu malgré toutes les peurs"(OSHO)🟣](#le-courage-cest-daller-dans-linconnu-malgré-toutes-les-peursosho)
   
 ---
 
@@ -145,4 +145,4 @@ Si vous êtes intéressé à aborder l'un des problèmes mentionnés ou à contr
 
 Je tiens à exprimer ma sincère gratitude envers ..., dont la disponibilité constante et la précision ont grandement contribué à la réalisation de ce projet. Son aide précieuse a transformé cette expérience en une aventure épique.
 
-## 🟣"Le courage, c’est d’aller dans l’inconnu malgré toutes les peurs"(OSHO)🟣
+# 🟣"Le courage, c’est d’aller dans l’inconnu malgré toutes les peurs"(OSHO)🟣
