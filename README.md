@@ -1,4 +1,4 @@
-# ✅ README.md-template ✅ 
+# 🟣 README.md-template 🟣 
 
   <img src="logo.svg" alt="Logo" width="100" height="100">
 
