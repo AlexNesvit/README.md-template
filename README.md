@@ -1,14 +1,14 @@
-# 🟣 README.md-template 🟣 
+# <div align="center">🟣 README.md-template 🟣 
 
-  <img src="logo.svg" alt="Logo" width="100" height="100">
-
-
-# **Projet NOM** 
+  <img src="logo.svg" alt="Logo" width="100" height="100"></div>
 
 
-## 💻 Site Nom 💻
+# <div align="center">**Projet NOM**</div> 
 
-- [✅ README.md-template ✅](#-readmemd-template-)
+
+## <div align="center">💻 Site Nom 💻
+
+- [🟣 README.md-template 🟣](#-readmemd-template-)
 - [**Projet NOM**](#projet-nom)
   - [💻 Site Nom 💻](#-site-nom-)
   - [À propos](#à-propos)
@@ -27,6 +27,10 @@
 - [Contributions](#contributions)
 - [Remerciements](#remerciements)
 - [🟣"Le courage, c’est d’aller dans l’inconnu malgré toutes les peurs"(OSHO)🟣](#le-courage-cest-daller-dans-linconnu-malgré-toutes-les-peursosho)
+  - [🟣 Hi, this is my Project Lambo look here 🟣](#-hi-this-is-my-project-lambo-look-here-)
+    - [I created it using skills such as HTML, CSS, JavaScript and Framework Swiper. The tool Figma look here was used for the website design. This site was designed to adapt to various screens, with breakpoints set at 1100px, 940px, 768px, 640px, 560px, 420px, and 375px for adaptation.](#i-created-it-using-skills-such-as-html-css-javascript-and-framework-swiper-the-tool-figma-look-here-was-used-for-the-website-design-this-site-was-designed-to-adapt-to-various-screens-with-breakpoints-set-at-1100px-940px-768px-640px-560px-420px-and-375px-for-adaptation)
+  - [To download, copy the project by clicking "Fork"](#to-download-copy-the-project-by-clicking-fork)
+  - [☕ Support Me](#-support-me)
   
 ---
 
@@ -146,3 +150,23 @@ Si vous êtes intéressé à aborder l'un des problèmes mentionnés ou à contr
 Je tiens à exprimer ma sincère gratitude envers ..., dont la disponibilité constante et la précision ont grandement contribué à la réalisation de ce projet. Son aide précieuse a transformé cette expérience en une aventure épique.
 
 # 🟣"Le courage, c’est d’aller dans l’inconnu malgré toutes les peurs"(OSHO)🟣
+
+
+## <div align="center">🟣 Hi, this is my Project Lambo [look here](https://alexnesvit.github.io/Monprojet-Lambo-html-css-javascript/) 🟣</div>
+
+----
+
+### <div align="center">I created it using skills such as HTML, CSS, JavaScript and Framework Swiper. The tool Figma [look here](https://www.figma.com/file/oW3glk3qkXbTL68TY4XAZc/Lamborghini-race-(1)?type=design&node-id=32-45&mode=design&t=UlqMlwkvD8wtSBnB-0) was used for the website design. This site was designed to adapt to various screens, with breakpoints set at 1100px, 940px, 768px, 640px, 560px, 420px, and 375px for adaptation.</div>
+
+----
+
+## <div align="center">To download, copy the project by clicking "Fork"</div>
+
+----
+
+
+## <div align="center">☕ Support Me
+<p>
+<div align="center"><a href="https://www.buymeacoffee.com/alexnesvit"><img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></div>
+</p>
+</div>
